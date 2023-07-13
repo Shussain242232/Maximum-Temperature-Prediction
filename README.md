@@ -1,1 +1,1 @@
-# Maximum-Temperature-Prediction
+# Maximum-Weather-Prediction
